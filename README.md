@@ -23,10 +23,10 @@ Dataset Link : https://www.kaggle.com/datasets/nilimajauhari/glassdoor-analyze-g
 
 This data will be analyzed using Python. Some examples of data analysis tasks that can be performed on this dataset include:
 
-Computing summary statistics for the pay gap by job title, department, seniority level, etc.
-Creating visualizations to explore the relationship between gender and pay, such as histograms, box plots, and scatter plots.
-Conducting hypothesis tests to determine whether there is a significant difference in pay between male and female employees.
-Building predictive models to estimate an employee's pay based on their job title, seniority level, et
+<li>Computing summary statistics for the pay gap by job title, department, seniority level, etc.
+<li>Creating visualizations to explore the relationship between gender and pay, such as histograms, box plots, and scatter plots.
+<li>Conducting hypothesis tests to determine whether there is a significant difference in pay between male and female employees.
+<li>Building predictive models to estimate an employee's pay based on their job title, seniority level, etc.
 
 # License
 The data is released under the MIT license, which means you are free to use it for any purpose, including commercial applications, as long as you provide attribution to the original source. See the LICENSE file for more details.
